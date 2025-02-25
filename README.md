@@ -1,4 +1,4 @@
-# Student Management System
+# 🎓 Student Management System 📚
 
 ![Student Management System](https://img.shields.io/badge/Project-Student%20Management%20System-blue.svg)
 
